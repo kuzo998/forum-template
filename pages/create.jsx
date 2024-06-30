@@ -13,7 +13,7 @@ export default function Create() {
     <>
       <Head>
         {/** Title */}
-        <title key="title">Share a new post | Orbis Forum</title>
+        <title key="title">Share a new post | Shido Riders Forum </title>
         <meta property="og:title" content="Share a new post | Shido Riders Forum" key="og_title" />
 
         {/** Description */}
