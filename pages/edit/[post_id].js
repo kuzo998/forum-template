@@ -17,7 +17,7 @@ export default function Edit({post}) {
           <main className="grow overflow-hidden px-6">
             {/*  Site header */}
             <Header />
-            <Hero title="Sharing a new post on our forum" description="You are about to share a new post in the forum. Make sure to read our rules before doing so." image />
+            <Hero title="Sharing a new post on our forum" description="You are about to share a new post in the forum. Make sure to read our guidelines before doing so." image />
 
             {/* Page content */}
             <section>
