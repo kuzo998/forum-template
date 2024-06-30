@@ -73,10 +73,10 @@ function Home({defaultPosts}) {
       <Head>
         {/** Title */}
         <title key="title">Orbis Forum | Let&apos;s build web3 social together</title>
-        <meta property="og:title" content="Orbis Forum | Let&apos;s build web3 social together" key="og_title" />
+        <meta property="og:title" content="Shido Riders Community Forum | Let&apos;s build web3 social together" key="og_title" />
 
         {/** Description */}
-        <meta name="description" content="Discuss the future of Orbis and experience the power of Open Social on our Orbis Forum." key="description"></meta>
+        <meta name="description" content="Discuss the future of Shido network and get connected to riders community." key="description"></meta>
         <meta property="og:description" content="Discuss the future of Orbis and experience the power of Open Social on our Orbis Forum." key="og_description"/>
         <link rel="icon" href="/favicon.png" />
       </Head>
@@ -90,7 +90,7 @@ function Home({defaultPosts}) {
               <Header />
 
               {/*  Page sections */}
-              <Hero title="Welcome to the Orbis Forum!" description="Respectful and good-faith discussion should be the cornerstone of any decision-making process. In trying to enact change, please keep this principle in mind." image={<HeroOrbisIcon />} />
+              <Hero title="Welcome to Shido Riders Community Forum!" description="Respectful and good-faith discussion should be the cornerstone of any decision-making process. In trying to enact change, please keep this principle in mind." image={<HeroOrbisIcon />} />
 
               {/* Page content */}
               <section>
