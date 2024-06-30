@@ -41,7 +41,7 @@ function Footer() {
                 <Link
                   className="flex justify-center items-center text-brand text-brand-hover"
                   target="_blank"
-                  href="https://twitter.com/useOrbis">
+                  href="https://twitter.com/kuzoiv">
                   <TwitterIcon />
                 </Link>
               </li>
@@ -49,7 +49,7 @@ function Footer() {
                 <Link
                   className="flex justify-center items-center text-brand text-brand-hover"
                   target="_blank"
-                  href="https://github.com/OrbisWeb3">
+                  href="https://github.com/kuzo998">
                   <GithubIcon />
                 </Link>
               </li>
