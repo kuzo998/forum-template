@@ -72,7 +72,7 @@ function Home({defaultPosts}) {
     <>
       <Head>
         {/** Title */}
-        <title key="title">Orbis Forum | Let&apos;s build web3 social together</title>
+        <title key="title">Shido Riders Forum | Let&apos;s Shido Community Hub </title>
         <meta property="og:title" content="Shido Riders Community Forum | Let&apos;s Shido Community Hub" key="og_title" />
 
         {/** Description */}
