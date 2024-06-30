@@ -4,7 +4,6 @@ import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Sidebar from '../components/Sidebar';
 import Footer from '../components/Footer';
-import { useOrbis, User } from "@orbisclub/components";
 
 export default function Create() {
   const { orbis, user, setConnectModalVis } = useOrbis();
